@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 423df450f149c404faa61409c37b8d0b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zombie: {fileID: 100000, guid: 7a97bd6b217f5d2459c4abe60e0e88d4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

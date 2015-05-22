@@ -1,0 +1,1961 @@
+fileFormatVersion: 2
+guid: 4b94e393ca5190a4497b3cd50b97184a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: melee unit_0
+    21300002: melee unit_1
+    21300004: melee unit_2
+    21300006: melee unit_3
+    21300008: melee unit_4
+    21300010: melee unit_5
+    21300012: melee unit_6
+    21300014: melee unit_7
+    21300016: melee unit_8
+    21300018: melee unit_9
+    21300020: melee unit_10
+    21300022: melee unit_11
+    21300024: melee unit_12
+    21300026: melee unit_13
+    21300028: melee unit_14
+    21300030: melee unit_15
+    21300032: melee unit_16
+    21300034: melee unit_17
+    21300036: melee unit_18
+    21300038: melee unit_19
+    21300040: melee unit_20
+    21300042: melee unit_21
+    21300044: melee unit_22
+    21300046: melee unit_23
+    21300048: melee unit_24
+    21300050: melee unit_25
+    21300052: melee unit_26
+    21300054: melee unit_27
+    21300056: melee unit_28
+    21300058: melee unit_29
+    21300060: melee unit_30
+    21300062: melee unit_31
+    21300064: melee unit_32
+    21300066: melee unit_33
+    21300068: melee unit_34
+    21300070: melee unit_35
+    21300072: melee unit_36
+    21300074: melee unit_37
+    21300076: melee unit_38
+    21300078: melee unit_39
+    21300080: melee unit_40
+    21300082: melee unit_41
+    21300084: melee unit_42
+    21300086: melee unit_43
+    21300088: melee unit_44
+    21300090: melee unit_45
+    21300092: melee unit_46
+    21300094: melee unit_47
+    21300096: melee unit_48
+    21300098: melee unit_49
+    21300100: melee unit_50
+    21300102: melee unit_51
+    21300104: melee unit_52
+    21300106: melee unit_53
+    21300108: melee unit_54
+    21300110: melee unit_55
+    21300112: melee unit_56
+    21300114: melee unit_57
+    21300116: melee unit_58
+    21300118: melee unit_59
+    21300120: melee unit_60
+    21300122: melee unit_61
+    21300124: melee unit_62
+    21300126: melee unit_63
+    21300128: melee unit_64
+    21300130: melee unit_65
+    21300132: melee unit_66
+    21300134: melee unit_67
+    21300136: melee unit_68
+    21300138: melee unit_69
+    21300140: melee unit_70
+    21300142: melee unit_71
+    21300144: melee unit_72
+    21300146: melee unit_73
+    21300148: melee unit_74
+    21300150: melee unit_75
+    21300152: melee unit_76
+    21300154: melee unit_77
+    21300156: melee unit_78
+    21300158: melee unit_79
+    21300160: melee unit_80
+    21300162: melee unit_81
+    21300164: melee unit_82
+    21300166: melee unit_83
+    21300168: melee unit_84
+    21300170: melee unit_85
+    21300172: melee unit_86
+    21300174: melee unit_87
+    21300176: melee unit_88
+    21300178: melee unit_89
+    21300180: melee unit_90
+    21300182: melee unit_91
+    21300184: melee unit_92
+    21300186: melee unit_93
+    21300188: melee unit_94
+    21300190: melee unit_95
+    21300192: melee unit_96
+    21300194: melee unit_97
+    21300196: melee unit_98
+    21300198: melee unit_99
+    21300200: melee unit_100
+    21300202: melee unit_101
+    21300204: melee unit_102
+    21300206: melee unit_103
+    21300208: melee unit_104
+    21300210: melee unit_105
+    21300212: melee unit_106
+    21300214: melee unit_107
+    21300216: melee unit_108
+    21300218: melee unit_109
+    21300220: melee unit_110
+    21300222: melee unit_111
+    21300224: melee unit_112
+    21300226: melee unit_113
+    21300228: melee unit_114
+    21300230: melee unit_115
+    21300232: melee unit_116
+    21300234: melee unit_117
+    21300236: melee unit_118
+    21300238: melee unit_119
+    21300240: melee unit_120
+    21300242: melee unit_121
+    21300244: melee unit_122
+    21300246: melee unit_123
+    21300248: melee unit_124
+    21300250: melee unit_125
+    21300252: melee unit_126
+    21300254: melee unit_127
+    21300256: melee unit_128
+    21300258: melee unit_129
+    21300260: melee unit_130
+    21300262: melee unit_131
+    21300264: melee unit_132
+    21300266: melee unit_133
+    21300268: melee unit_134
+    21300270: melee unit_135
+    21300272: melee unit_136
+    21300274: melee unit_137
+    21300276: melee unit_138
+    21300278: melee unit_139
+    21300280: melee unit_140
+    21300282: melee unit_141
+    21300284: melee unit_142
+    21300286: melee unit_143
+    21300288: melee unit_144
+    21300290: melee unit_145
+    21300292: melee unit_146
+    21300294: melee unit_147
+    21300296: melee unit_148
+    21300298: melee unit_149
+    21300300: melee unit_150
+    21300302: melee unit_151
+    21300304: melee unit_152
+    21300306: melee unit_153
+    21300308: melee unit_154
+    21300310: melee unit_155
+    21300312: melee unit_156
+    21300314: melee unit_157
+    21300316: melee unit_158
+    21300318: melee unit_159
+    21300320: melee unit_160
+    21300322: melee unit_161
+    21300324: melee unit_162
+    21300326: melee unit_163
+    21300328: melee unit_164
+    21300330: melee unit_165
+    21300332: melee unit_166
+    21300334: melee unit_167
+    21300336: melee unit_168
+    21300338: melee unit_169
+    21300340: melee unit_170
+    21300342: melee unit_171
+    21300344: melee unit_172
+    21300346: melee unit_173
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: melee unit_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1887
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1885
+        width: 149
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1883
+        width: 164
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1812
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1803
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1805
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1805
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1806
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1806
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1797
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1797
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1799
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1795
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1765
+        width: 104
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1685
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1685
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1687
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1687
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1687
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1687
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1685
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_21
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1715
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_22
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1713
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1711
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1596
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1596
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1588
+        width: 215
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1575
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1573
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1575
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1575
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1575
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1575
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1575
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1575
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1536
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1536
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1536
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1454
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1454
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1452
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1452
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1452
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1454
+        width: 133
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1452
+        width: 174
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1446
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1372
+        width: 147
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1370
+        width: 287
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1370
+        width: 268
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1294
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1290
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1271
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_52
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1269
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1262
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1267
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1176
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1174
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1172
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1174
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_59
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1169
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_60
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1167
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1131
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1131
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1034
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1036
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1036
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_66
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1036
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1034
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1036
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_69
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1034
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_70
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1034
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_71
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1031
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 952
+        width: 113
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 950
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 948
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 943
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 941
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 937
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 855
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 857
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_80
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 861
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_81
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 865
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 865
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_83
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 865
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 766
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 764
+        width: 108
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_86
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 762
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_87
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 751
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_88
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 749
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_89
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 749
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_90
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 753
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 715
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 630
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 628
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 630
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_95
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 618
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_96
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 620
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_97
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 622
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_98
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 616
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_99
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 613
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_100
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 616
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 534
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 549
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 547
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_104
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 547
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_105
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 546
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_106
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 561
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 495
+        width: 97
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 491
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_109
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 398
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 396
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_111
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 395
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_112
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 391
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_113
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 395
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_114
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 395
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_115
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 393
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_116
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 393
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_117
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 396
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_118
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 329
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_119
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 327
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_120
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 329
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 232
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_122
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 217
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 214
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_124
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 284
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_125
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 296
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_126
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 284
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_127
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 195
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_128
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 201
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_129
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 201
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_130
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 187
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_131
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 167
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_132
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_133
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 180
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_134
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 167
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_135
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_136
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_137
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_138
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_139
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 122
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_140
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 124
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_141
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 122
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_142
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 122
+        width: 102
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_143
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 122
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_144
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 124
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_145
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 124
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_146
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 124
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_147
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 124
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_148
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 122
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 29
+        width: 242
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_150
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 109
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_151
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 109
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_152
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 109
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_153
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 109
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_154
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 107
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_155
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 109
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_156
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 109
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_157
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 107
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_158
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 109
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_159
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 109
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_160
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 109
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_161
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 109
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_162
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 107
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_163
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 107
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_164
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 51
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_165
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 21
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_166
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 25
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_167
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 27
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_168
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 31
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_169
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 5
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_170
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5
+        width: 76
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_171
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 5
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_172
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 5
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: melee unit_173
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 7
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

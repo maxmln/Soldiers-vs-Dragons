@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: e1f9578e5a8ab164e803bbe9d1109df3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon knight_0
+    21300002: dragon knight_1
+    21300004: dragon knight_2
+    21300006: dragon knight_3
+    21300008: dragon knight_4
+    21300010: dragon knight_5
+    21300012: dragon knight_6
+    21300014: dragon knight_7
+    21300016: dragon knight_8
+    21300018: dragon knight_9
+    21300020: dragon knight_10
+    21300022: dragon knight_11
+    21300024: dragon knight_12
+    21300026: dragon knight_13
+    21300028: dragon knight_14
+    21300030: dragon knight_15
+    21300032: dragon knight_16
+    21300034: dragon knight_17
+    21300036: dragon knight_18
+    21300038: dragon knight_19
+    21300040: dragon knight_20
+    21300042: dragon knight_21
+    21300044: dragon knight_22
+    21300046: dragon knight_23
+    21300048: dragon knight_24
+    21300050: dragon knight_25
+    21300052: dragon knight_26
+    21300054: dragon knight_27
+    21300056: dragon knight_28
+    21300058: dragon knight_29
+    21300060: dragon knight_30
+    21300062: dragon knight_31
+    21300064: dragon knight_32
+    21300066: dragon knight_33
+    21300068: dragon knight_34
+    21300070: dragon knight_35
+    21300072: dragon knight_36
+    21300074: dragon knight_37
+    21300076: dragon knight_38
+    21300078: dragon knight_39
+    21300080: dragon knight_40
+    21300082: dragon knight_41
+    21300084: dragon knight_42
+    21300086: dragon knight_43
+    21300088: dragon knight_44
+    21300090: dragon knight_45
+    21300092: dragon knight_46
+    21300094: dragon knight_47
+    21300096: dragon knight_48
+    21300098: dragon knight_49
+    21300100: dragon knight_50
+    21300102: dragon knight_51
+    21300104: dragon knight_52
+    21300106: dragon knight_53
+    21300108: dragon knight_54
+    21300110: dragon knight_55
+    21300112: dragon knight_56
+    21300114: dragon knight_57
+    21300116: dragon knight_58
+    21300118: dragon knight_59
+    21300120: dragon knight_60
+    21300122: dragon knight_61
+    21300124: dragon knight_62
+    21300126: dragon knight_63
+    21300128: dragon knight_64
+    21300130: dragon knight_65
+    21300132: dragon knight_66
+    21300134: dragon knight_67
+    21300136: dragon knight_68
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragon knight_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1423
+        width: 115
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1299
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1298
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1298
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1298
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1298
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1298
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1269
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1150
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1150
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1150
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1150
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_12
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1150
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1160
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1150
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_15
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1150
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_16
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1150
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_17
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1150
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1151
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1120
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1001
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1001
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1001
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1000
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1001
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1001
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 971
+        width: 107
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 853
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 853
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 853
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 853
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 853
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 853
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 821
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 703
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 703
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 703
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 703
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 703
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_39
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 703
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_40
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 703
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_41
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 703
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 673
+        width: 107
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 554
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 554
+        width: 108
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 554
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 553
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_47
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 554
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 553
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 524
+        width: 107
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 405
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 405
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 405
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 405
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_54
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 405
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_55
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 405
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 374
+        width: 115
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 255
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 255
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 255
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_61
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 255
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 226
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_63
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 107
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 137
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 134
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon knight_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

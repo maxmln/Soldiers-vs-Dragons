@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 67e490ed8c4b9a749899acc6133fa606
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zombie: {instanceID: 0}
+  - dragonFly: {instanceID: 0}
+  - dragonWarrior: {instanceID: 0}
+  - dragonKnight: {instanceID: 0}
+  - whiteDragon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

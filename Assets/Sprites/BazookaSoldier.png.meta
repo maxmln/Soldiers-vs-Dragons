@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 7ff83101971cb87439e835894d66c887
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BazookaSoldier_0
+    21300002: BazookaSoldier_1
+    21300004: BazookaSoldier_2
+    21300006: BazookaSoldier_3
+    21300008: BazookaSoldier_4
+    21300010: BazookaSoldier_5
+    21300012: BazookaSoldier_6
+    21300014: BazookaSoldier_7
+    21300016: BazookaSoldier_8
+    21300018: BazookaSoldier_9
+    21300020: BazookaSoldier_10
+    21300022: BazookaSoldier_11
+    21300024: BazookaSoldier_12
+    21300026: BazookaSoldier_13
+    21300028: BazookaSoldier_14
+    21300030: BazookaSoldier_15
+    21300032: BazookaSoldier_16
+    21300034: BazookaSoldier_17
+    21300036: BazookaSoldier_18
+    21300038: BazookaSoldier_19
+    21300040: BazookaSoldier_20
+    21300042: BazookaSoldier_21
+    21300044: BazookaSoldier_22
+    21300046: BazookaSoldier_23
+    21300048: BazookaSoldier_24
+    21300050: BazookaSoldier_25
+    21300052: BazookaSoldier_26
+    21300054: BazookaSoldier_27
+    21300056: BazookaSoldier_28
+    21300058: BazookaSoldier_29
+    21300060: BazookaSoldier_30
+    21300062: BazookaSoldier_31
+    21300064: BazookaSoldier_32
+    21300066: BazookaSoldier_33
+    21300068: BazookaSoldier_34
+    21300070: BazookaSoldier_35
+    21300072: BazookaSoldier_36
+    21300074: BazookaSoldier_37
+    21300076: BazookaSoldier_38
+    21300078: BazookaSoldier_39
+    21300080: BazookaSoldier_40
+    21300082: BazookaSoldier_41
+    21300084: BazookaSoldier_42
+    21300086: BazookaSoldier_43
+    21300088: BazookaSoldier_44
+    21300090: BazookaSoldier_45
+    21300092: BazookaSoldier_46
+    21300094: BazookaSoldier_47
+    21300096: BazookaSoldier_48
+    21300098: BazookaSoldier_49
+    21300100: BazookaSoldier_50
+    21300102: BazookaSoldier_51
+    21300104: BazookaSoldier_52
+    21300106: BazookaSoldier_53
+    21300108: BazookaSoldier_54
+    21300110: BazookaSoldier_55
+    21300112: BazookaSoldier_56
+    21300114: BazookaSoldier_57
+    21300116: BazookaSoldier_58
+    21300118: BazookaSoldier_59
+    21300120: BazookaSoldier_60
+    21300122: BazookaSoldier_61
+    21300124: BazookaSoldier_62
+    21300126: BazookaSoldier_63
+    21300128: BazookaSoldier_64
+    21300130: BazookaSoldier_65
+    21300132: BazookaSoldier_79
+    21300134: BazookaSoldier_92
+    21300136: BazookaSoldier_93
+    21300138: BazookaSoldier_79
+    21300140: BazookaSoldier_81
+    21300142: BazookaSoldier_82
+    21300144: BazookaSoldier_83
+    21300146: BazookaSoldier_84
+    21300148: BazookaSoldier_85
+    21300150: BazookaSoldier_75
+    21300152: BazookaSoldier_76
+    21300154: BazookaSoldier_77
+    21300156: BazookaSoldier_78
+    21300158: BazookaSoldier_79
+    21300160: BazookaSoldier_80
+    21300162: BazookaSoldier_81
+    21300164: BazookaSoldier_82
+    21300166: BazookaSoldier_83
+    21300168: BazookaSoldier_84
+    21300170: BazookaSoldier_85
+    21300172: BazookaSoldier_86
+    21300174: BazookaSoldier_87
+    21300176: BazookaSoldier_88
+    21300178: BazookaSoldier_89
+    21300180: BazookaSoldier_90
+    21300182: BazookaSoldier_93
+    21300184: BazookaSoldier_94
+    21300186: BazookaSoldier_79
+    21300188: BazookaSoldier_92
+    21300190: BazookaSoldier_76
+    21300192: BazookaSoldier_66
+    21300194: BazookaSoldier_67
+    21300196: BazookaSoldier_68
+    21300198: BazookaSoldier_69
+    21300200: BazookaSoldier_77
+    21300202: BazookaSoldier_73
+    21300204: BazookaSoldier_70
+    21300206: BazookaSoldier_91
+    21300208: BazookaSoldier_71
+    21300210: BazookaSoldier_72
+    21300212: BazookaSoldier_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BazookaSoldier_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1275
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1275
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1275
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1275
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1275
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1275
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1229
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1229
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1228
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1228
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1227
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1228
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1229
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1229
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1228
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1228
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1180
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1180
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1180
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1130
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1130
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1130
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1130
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1083
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1083
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1090
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1089
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1083
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1083
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1036
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1030
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 875
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 875
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 875
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 875
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 875
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 875
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 875
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_53
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 875
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 875
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 831
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_56
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 831
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 831
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 831
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 831
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_60
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 831
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 313
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 757
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_81
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 757
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 757
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 757
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 757
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 757
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_65
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 976
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 976
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 976
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 976
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 976
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 976
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 976
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 976
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_73
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 976
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_74
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 976
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_90
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 713
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 713
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_92
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 713
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 713
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_94
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 713
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_75
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 798
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 797
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 797
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 793
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BazookaSoldier_79
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 787
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

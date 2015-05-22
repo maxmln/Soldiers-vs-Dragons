@@ -1,0 +1,12 @@
+E:\PvZ Clone Project\Temp\bin\Debug\Assembly-CSharp.dll
+E:\PvZ Clone Project\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\PvZ Clone Project\Temp\bin\Debug\UnityEditor.dll
+E:\PvZ Clone Project\Temp\bin\Debug\UnityEngine.dll
+E:\PvZ Clone Project\Temp\bin\Debug\UnityEngine.UI.dll
+E:\PvZ Clone Project\Temp\bin\Debug\Mono.Cecil.dll
+E:\PvZ Clone Project\Temp\bin\Debug\nunit.framework.dll
+E:\PvZ Clone Project\Temp\bin\Debug\Unity.DataContract.dll
+E:\PvZ Clone Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\PvZ Clone Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\PvZ Clone Project\obj\Debug\Assembly-CSharp.dll
+E:\PvZ Clone Project\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 352b0731d14de7945925396b8e17e27a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonfly enemy_0
+    21300002: dragonfly enemy_1
+    21300004: dragonfly enemy_2
+    21300006: dragonfly enemy_3
+    21300008: dragonfly enemy_4
+    21300010: dragonfly enemy_5
+    21300012: dragonfly enemy_6
+    21300014: dragonfly enemy_7
+    21300016: dragonfly enemy_8
+    21300018: dragonfly enemy_9
+    21300020: dragonfly enemy_10
+    21300022: dragonfly enemy_11
+    21300024: dragonfly enemy_12
+    21300026: dragonfly enemy_13
+    21300028: dragonfly enemy_14
+    21300030: dragonfly enemy_15
+    21300032: dragonfly enemy_16
+    21300034: dragonfly enemy_17
+    21300036: dragonfly enemy_18
+    21300038: dragonfly enemy_19
+    21300040: dragonfly enemy_20
+    21300042: dragonfly enemy_21
+    21300044: dragonfly enemy_22
+    21300046: dragonfly enemy_23
+    21300048: dragonfly enemy_24
+    21300050: dragonfly enemy_25
+    21300052: dragonfly enemy_26
+    21300054: dragonfly enemy_27
+    21300056: dragonfly enemy_28
+    21300058: dragonfly enemy_29
+    21300060: dragonfly enemy_30
+    21300062: dragonfly enemy_31
+    21300064: dragonfly enemy_32
+    21300066: dragonfly enemy_33
+    21300068: dragonfly enemy_34
+    21300070: dragonfly enemy_35
+    21300072: dragonfly enemy_36
+    21300074: dragonfly enemy_37
+    21300076: dragonfly enemy_38
+    21300078: dragonfly enemy_39
+    21300080: dragonfly enemy_41
+    21300082: dragonfly enemy_42
+    21300084: dragonfly enemy_43
+    21300086: dragonfly enemy_44
+    21300088: dragonfly enemy_46
+    21300090: dragonfly enemy_47
+    21300092: dragonfly enemy_48
+    21300094: dragonfly enemy_49
+    21300096: dragonfly enemy_50
+    21300098: dragonfly enemy_51
+    21300100: dragonfly enemy_52
+    21300102: dragonfly enemy_53
+    21300104: dragonfly enemy_54
+    21300106: dragonfly enemy_55
+    21300108: dragonfly enemy_56
+    21300110: dragonfly enemy_57
+    21300112: dragonfly enemy_58
+    21300114: dragonfly enemy_59
+    21300116: dragonfly enemy_60
+    21300118: dragonfly enemy_61
+    21300120: dragonfly enemy_62
+    21300122: dragonfly enemy_63
+    21300124: dragonfly enemy_64
+    21300126: dragonfly enemy_65
+    21300128: dragonfly enemy_66
+    21300130: dragonfly enemy_67
+    21300132: dragonfly enemy_68
+    21300134: dragonfly enemy_69
+    21300136: dragonfly enemy_70
+    21300138: dragonfly enemy_71
+    21300140: dragonfly enemy_72
+    21300142: dragonfly enemy_73
+    21300144: dragonfly enemy_74
+    21300146: dragonfly enemy_75
+    21300148: dragonfly enemy_76
+    21300150: dragonfly enemy_77
+    21300152: dragonfly enemy_78
+    21300154: dragonfly enemy_79
+    21300156: dragonfly enemy_80
+    21300158: dragonfly enemy_81
+    21300160: dragonfly enemy_82
+    21300162: dragonfly enemy_83
+    21300164: dragonfly enemy_84
+    21300166: dragonfly enemy_85
+    21300168: dragonfly enemy_86
+    21300170: dragonfly enemy_87
+    21300172: dragonfly enemy_88
+    21300174: dragonfly enemy_89
+    21300176: dragonfly enemy_90
+    21300178: dragonfly enemy_91
+    21300180: dragonfly enemy_92
+    21300182: dragonfly enemy_93
+    21300184: dragonfly enemy_94
+    21300186: dragonfly enemy_95
+    21300188: dragonfly enemy_96
+    21300190: dragonfly enemy_97
+    21300192: dragonfly enemy_98
+    21300194: dragonfly enemy_99
+    21300196: dragonfly enemy_100
+    21300198: dragonfly enemy_101
+    21300200: dragonfly enemy_102
+    21300202: dragonfly enemy_103
+    21300204: dragonfly enemy_104
+    21300206: dragonfly enemy_105
+    21300208: dragonfly enemy_106
+    21300210: dragonfly enemy_107
+    21300212: dragonfly enemy_108
+    21300214: dragonfly enemy_109
+    21300216: dragonfly enemy_110
+    21300218: dragonfly enemy_111
+    21300220: dragonfly enemy_112
+    21300222: dragonfly enemy_113
+    21300224: dragonfly enemy_114
+    21300226: dragonfly enemy_115
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragonfly enemy_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 994
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1019
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1021
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1017
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 994
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 994
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_6
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 994
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 994
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_8
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 994
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 996
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 994
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 882
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 898
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 900
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 900
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 899
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 899
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 898
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 883
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 861
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 864
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 867
+        width: 94
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 867
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 866
+        width: 82
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 871
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_25
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 860
+        width: 83
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_103
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 433
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_28
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 435
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 445
+        width: 122
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 450
+        width: 116
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_31
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 445
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly enemy_32
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 422
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

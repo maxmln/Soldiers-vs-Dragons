@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3bacdee04b7997241b5952e0c0195066
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grassUnit1: {fileID: 100000, guid: 1bdd04c03585f70438a8446114608690, type: 2}
+  - grassUnit2: {fileID: 100000, guid: d9653113b6116ee42835e61399ecc65d, type: 2}
+  - finishLine: {fileID: 400000, guid: c3afc871a00321e449edba454a545d06, type: 2}
+  - level1Inst: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

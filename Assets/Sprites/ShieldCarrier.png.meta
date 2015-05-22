@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4b752d9b0c7f96d49a8d720223f80133
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ShieldCarrier_0
+    21300002: ShieldCarrier_1
+    21300004: ShieldCarrier_2
+    21300006: ShieldCarrier_3
+    21300008: ShieldCarrier_4
+    21300010: ShieldCarrier_5
+    21300012: ShieldCarrier_6
+    21300014: ShieldCarrier_7
+    21300016: ShieldCarrier_8
+    21300018: ShieldCarrier_9
+    21300020: ShieldCarrier_10
+    21300022: ShieldCarrier_11
+    21300024: ShieldCarrier_12
+    21300026: ShieldCarrier_13
+    21300028: ShieldCarrier_14
+    21300030: ShieldCarrier_15
+    21300032: ShieldCarrier_16
+    21300034: ShieldCarrier_17
+    21300036: ShieldCarrier_18
+    21300038: ShieldCarrier_19
+    21300040: ShieldCarrier_20
+    21300042: ShieldCarrier_21
+    21300044: ShieldCarrier_22
+    21300046: ShieldCarrier_23
+    21300048: ShieldCarrier_24
+    21300050: ShieldCarrier_25
+    21300052: ShieldCarrier_26
+    21300054: ShieldCarrier_27
+    21300056: ShieldCarrier_28
+    21300058: ShieldCarrier_29
+    21300060: ShieldCarrier_30
+    21300062: ShieldCarrier_31
+    21300064: ShieldCarrier_32
+    21300066: ShieldCarrier_33
+    21300068: ShieldCarrier_34
+    21300070: ShieldCarrier_35
+    21300072: ShieldCarrier_36
+    21300074: ShieldCarrier_37
+    21300076: ShieldCarrier_38
+    21300078: ShieldCarrier_39
+    21300080: ShieldCarrier_40
+    21300082: ShieldCarrier_41
+    21300084: ShieldCarrier_42
+    21300086: ShieldCarrier_43
+    21300088: ShieldCarrier_44
+    21300090: ShieldCarrier_45
+    21300092: ShieldCarrier_46
+    21300094: ShieldCarrier_47
+    21300096: ShieldCarrier_48
+    21300098: ShieldCarrier_49
+    21300100: ShieldCarrier_50
+    21300102: ShieldCarrier_51
+    21300104: ShieldCarrier_52
+    21300106: ShieldCarrier_53
+    21300108: ShieldCarrier_54
+    21300110: ShieldCarrier_55
+    21300112: ShieldCarrier_56
+    21300114: ShieldCarrier_57
+    21300116: ShieldCarrier_58
+    21300118: ShieldCarrier_59
+    21300120: ShieldCarrier_60
+    21300122: ShieldCarrier_61
+    21300124: ShieldCarrier_62
+    21300126: ShieldCarrier_63
+    21300128: ShieldCarrier_64
+    21300130: ShieldCarrier_65
+    21300132: ShieldCarrier_66
+    21300134: ShieldCarrier_67
+    21300136: ShieldCarrier_68
+    21300138: ShieldCarrier_69
+    21300140: ShieldCarrier_70
+    21300142: ShieldCarrier_71
+    21300144: ShieldCarrier_72
+    21300146: ShieldCarrier_73
+    21300148: ShieldCarrier_74
+    21300150: ShieldCarrier_75
+    21300152: ShieldCarrier_76
+    21300154: ShieldCarrier_77
+    21300156: ShieldCarrier_78
+    21300158: ShieldCarrier_79
+    21300160: ShieldCarrier_80
+    21300162: ShieldCarrier_81
+    21300164: ShieldCarrier_82
+    21300166: ShieldCarrier_83
+    21300168: ShieldCarrier_84
+    21300170: ShieldCarrier_85
+    21300172: ShieldCarrier_86
+    21300174: ShieldCarrier_87
+    21300176: ShieldCarrier_88
+    21300178: ShieldCarrier_89
+    21300180: ShieldCarrier_90
+    21300182: ShieldCarrier_91
+    21300184: ShieldCarrier_92
+    21300186: ShieldCarrier_93
+    21300188: ShieldCarrier_94
+    21300190: ShieldCarrier_95
+    21300192: ShieldCarrier_96
+    21300194: ShieldCarrier_97
+    21300196: ShieldCarrier_98
+    21300198: ShieldCarrier_99
+    21300200: ShieldCarrier_100
+    21300202: ShieldCarrier_101
+    21300204: ShieldCarrier_102
+    21300206: ShieldCarrier_103
+    21300208: ShieldCarrier_104
+    21300210: ShieldCarrier_105
+    21300212: ShieldCarrier_106
+    21300214: ShieldCarrier_107
+    21300216: ShieldCarrier_108
+    21300218: ShieldCarrier_80
+    21300220: ShieldCarrier_81
+    21300222: ShieldCarrier_82
+    21300224: ShieldCarrier_83
+    21300226: ShieldCarrier_84
+    21300228: ShieldCarrier_85
+    21300230: ShieldCarrier_86
+    21300232: ShieldCarrier_87
+    21300234: ShieldCarrier_88
+    21300236: ShieldCarrier_89
+    21300238: ShieldCarrier_90
+    21300240: ShieldCarrier_91
+    21300242: ShieldCarrier_92
+    21300244: ShieldCarrier_93
+    21300246: ShieldCarrier_94
+    21300248: ShieldCarrier_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ShieldCarrier_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1121
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1121
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1121
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1121
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1121
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1121
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1077
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1077
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1078
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1078
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1077
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1077
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1077
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1077
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1078
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1078
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1077
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1036
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1036
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1036
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1036
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 995
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 995
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 995
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 995
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 995
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 995
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 946
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 946
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 946
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 949
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 951
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 949
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 946
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 946
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 946
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 946
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 903
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 903
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 903
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 903
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_41
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 903
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 821
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 821
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 821
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_45
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 821
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_46
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 862
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 862
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_48
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 862
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 862
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 798
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_97
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 353
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 353
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 353
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_100
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 392
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 353
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 331
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 323
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_104
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 271
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_105
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 276
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_106
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 276
+        width: 67
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_107
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 271
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 488
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 738
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_64
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 738
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 738
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 738
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 738
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 738
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 738
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 738
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 738
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_72
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 687
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_73
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 687
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 687
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_75
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 687
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 687
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_77
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 687
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShieldCarrier_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 687
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

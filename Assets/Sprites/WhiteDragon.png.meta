@@ -1,0 +1,1609 @@
+fileFormatVersion: 2
+guid: 991810562e2ae6040a2955130433caad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WhiteDragon_0
+    21300002: WhiteDragon_1
+    21300004: WhiteDragon_2
+    21300006: WhiteDragon_3
+    21300008: WhiteDragon_4
+    21300010: WhiteDragon_5
+    21300012: WhiteDragon_6
+    21300014: WhiteDragon_7
+    21300016: WhiteDragon_8
+    21300018: WhiteDragon_9
+    21300020: WhiteDragon_10
+    21300022: WhiteDragon_11
+    21300024: WhiteDragon_12
+    21300026: WhiteDragon_13
+    21300028: WhiteDragon_14
+    21300030: WhiteDragon_15
+    21300032: WhiteDragon_16
+    21300034: WhiteDragon_17
+    21300036: WhiteDragon_18
+    21300038: WhiteDragon_19
+    21300040: WhiteDragon_20
+    21300042: WhiteDragon_21
+    21300044: WhiteDragon_22
+    21300046: WhiteDragon_23
+    21300048: WhiteDragon_24
+    21300050: WhiteDragon_25
+    21300052: WhiteDragon_26
+    21300054: WhiteDragon_27
+    21300056: WhiteDragon_28
+    21300058: WhiteDragon_29
+    21300060: WhiteDragon_30
+    21300062: WhiteDragon_31
+    21300064: WhiteDragon_32
+    21300066: WhiteDragon_33
+    21300068: WhiteDragon_34
+    21300070: WhiteDragon_35
+    21300072: WhiteDragon_36
+    21300074: WhiteDragon_37
+    21300076: WhiteDragon_38
+    21300078: WhiteDragon_39
+    21300080: WhiteDragon_40
+    21300082: WhiteDragon_41
+    21300084: WhiteDragon_42
+    21300086: WhiteDragon_43
+    21300088: WhiteDragon_44
+    21300090: WhiteDragon_45
+    21300092: WhiteDragon_46
+    21300094: WhiteDragon_47
+    21300096: WhiteDragon_48
+    21300098: WhiteDragon_49
+    21300100: WhiteDragon_50
+    21300102: WhiteDragon_51
+    21300104: WhiteDragon_52
+    21300106: WhiteDragon_53
+    21300108: WhiteDragon_54
+    21300110: WhiteDragon_55
+    21300112: WhiteDragon_56
+    21300114: WhiteDragon_57
+    21300116: WhiteDragon_58
+    21300118: WhiteDragon_59
+    21300120: WhiteDragon_60
+    21300122: WhiteDragon_61
+    21300124: WhiteDragon_62
+    21300126: WhiteDragon_63
+    21300128: WhiteDragon_64
+    21300130: WhiteDragon_65
+    21300132: WhiteDragon_66
+    21300134: WhiteDragon_67
+    21300136: WhiteDragon_68
+    21300138: WhiteDragon_69
+    21300140: WhiteDragon_70
+    21300142: WhiteDragon_71
+    21300144: WhiteDragon_72
+    21300146: WhiteDragon_73
+    21300148: WhiteDragon_74
+    21300150: WhiteDragon_75
+    21300152: WhiteDragon_76
+    21300154: WhiteDragon_77
+    21300156: WhiteDragon_78
+    21300158: WhiteDragon_79
+    21300160: WhiteDragon_80
+    21300162: WhiteDragon_81
+    21300164: WhiteDragon_82
+    21300166: WhiteDragon_83
+    21300168: WhiteDragon_84
+    21300170: WhiteDragon_85
+    21300172: WhiteDragon_86
+    21300174: WhiteDragon_87
+    21300176: WhiteDragon_88
+    21300178: WhiteDragon_89
+    21300180: WhiteDragon_90
+    21300182: WhiteDragon_91
+    21300184: WhiteDragon_92
+    21300186: WhiteDragon_93
+    21300188: WhiteDragon_94
+    21300190: WhiteDragon_95
+    21300192: WhiteDragon_96
+    21300194: WhiteDragon_97
+    21300196: WhiteDragon_98
+    21300198: WhiteDragon_99
+    21300200: WhiteDragon_100
+    21300202: WhiteDragon_101
+    21300204: WhiteDragon_102
+    21300206: WhiteDragon_103
+    21300208: WhiteDragon_104
+    21300210: WhiteDragon_105
+    21300212: WhiteDragon_106
+    21300214: WhiteDragon_107
+    21300216: WhiteDragon_108
+    21300218: WhiteDragon_109
+    21300220: WhiteDragon_110
+    21300222: WhiteDragon_111
+    21300224: WhiteDragon_112
+    21300226: WhiteDragon_113
+    21300228: WhiteDragon_114
+    21300230: WhiteDragon_115
+    21300232: WhiteDragon_116
+    21300234: WhiteDragon_117
+    21300236: WhiteDragon_118
+    21300238: WhiteDragon_119
+    21300240: WhiteDragon_120
+    21300242: WhiteDragon_121
+    21300244: WhiteDragon_122
+    21300246: WhiteDragon_123
+    21300248: WhiteDragon_124
+    21300250: WhiteDragon_125
+    21300252: WhiteDragon_126
+    21300254: WhiteDragon_127
+    21300256: WhiteDragon_128
+    21300258: WhiteDragon_129
+    21300260: WhiteDragon_130
+    21300262: WhiteDragon_131
+    21300264: WhiteDragon_132
+    21300266: WhiteDragon_133
+    21300268: WhiteDragon_134
+    21300270: WhiteDragon_135
+    21300272: WhiteDragon_136
+    21300274: WhiteDragon_137
+    21300276: WhiteDragon_138
+    21300278: WhiteDragon_139
+    21300280: WhiteDragon_140
+    21300282: WhiteDragon_141
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WhiteDragon_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1777
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1779
+        width: 118
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1777
+        width: 112
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1783
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1752
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1739
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1749
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_7
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1783
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_8
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1783
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1785
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1787
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1752
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1547
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1556
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1573
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1592
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1589
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1590
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_18
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1583
+        width: 111
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_19
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1596
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1587
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_21
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1587
+        width: 113
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_22
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1587
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1434
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1434
+        width: 107
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1434
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1434
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1434
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_28
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1434
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1434
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_30
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1434
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_31
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1434
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_32
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1434
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_33
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1434
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_34
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1434
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_35
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1434
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_36
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1434
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1329
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1329
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1329
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_40
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1329
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1329
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1329
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1329
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_44
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1329
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_45
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1331
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1179
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1177
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1179
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1177
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_50
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1179
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_51
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1177
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_52
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1179
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_53
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1177
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_54
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1177
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_55
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1177
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_56
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1177
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_57
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1177
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_58
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1036
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1034
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1034
+        width: 134
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_61
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1034
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_62
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1034
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_63
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1034
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_64
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1034
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_65
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1034
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_66
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1034
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_67
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1034
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_68
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1034
+        width: 136
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1034
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 889
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 889
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 889
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_73
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 889
+        width: 140
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_74
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 889
+        width: 137
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_75
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 889
+        width: 134
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_76
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 889
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_77
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 889
+        width: 118
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_78
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 889
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_79
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 889
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_80
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 889
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_81
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 891
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 746
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 746
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_84
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 746
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 748
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_86
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 746
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_87
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 746
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_88
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 746
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 596
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_90
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 594
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_91
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 596
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_92
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 596
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_93
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 594
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_94
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 594
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_95
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 594
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_96
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 592
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_97
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 590
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_98
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 588
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_99
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 588
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_100
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 443
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_101
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 443
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_102
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 443
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_103
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 445
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_104
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 445
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_105
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 445
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_106
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 447
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_107
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 445
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_108
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 447
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_109
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 445
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_110
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 449
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_111
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 306
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_112
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_113
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 306
+        width: 135
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_114
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 306
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_115
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 306
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_116
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 306
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_117
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 306
+        width: 136
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_118
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 306
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_119
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 306
+        width: 135
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_120
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 306
+        width: 138
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_121
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 306
+        width: 137
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 139
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_124
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 161
+        width: 141
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_125
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 161
+        width: 141
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_126
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 161
+        width: 141
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_127
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 161
+        width: 137
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_128
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 161
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_129
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 161
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_130
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 161
+        width: 118
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_131
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 161
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_132
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 161
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_134
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 18
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_135
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 18
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_136
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 18
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_137
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 18
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_138
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 18
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_139
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 18
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_140
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 18
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteDragon_141
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 18
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

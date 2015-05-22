@@ -1,0 +1,1777 @@
+fileFormatVersion: 2
+guid: 5ae3695925694f443bb2de67aa4c5d9c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rifle_0
+    21300002: Rifle_1
+    21300004: Rifle_2
+    21300006: Rifle_3
+    21300008: Rifle_4
+    21300010: Rifle_5
+    21300012: Rifle_6
+    21300014: Rifle_7
+    21300016: Rifle_8
+    21300018: Rifle_9
+    21300020: Rifle_10
+    21300022: Rifle_11
+    21300024: Rifle_12
+    21300026: Rifle_13
+    21300028: Rifle_14
+    21300030: Rifle_15
+    21300032: Rifle_16
+    21300034: Rifle_17
+    21300036: Rifle_18
+    21300038: Rifle_19
+    21300040: Rifle_20
+    21300042: Rifle_21
+    21300044: Rifle_22
+    21300046: Rifle_23
+    21300048: Rifle_24
+    21300050: Rifle_25
+    21300052: Rifle_26
+    21300054: Rifle_27
+    21300056: Rifle_28
+    21300058: Rifle_29
+    21300060: Rifle_30
+    21300062: Rifle_31
+    21300064: Rifle_32
+    21300066: Rifle_33
+    21300068: Rifle_34
+    21300070: Rifle_35
+    21300072: Rifle_36
+    21300074: Rifle_37
+    21300076: Rifle_38
+    21300078: Rifle_39
+    21300080: Rifle_40
+    21300082: Rifle_41
+    21300084: Rifle_42
+    21300086: Rifle_43
+    21300088: Rifle_44
+    21300090: Rifle_45
+    21300092: Rifle_46
+    21300094: Rifle_47
+    21300096: Rifle_48
+    21300098: Rifle_49
+    21300100: Rifle_50
+    21300102: Rifle_51
+    21300104: Rifle_52
+    21300106: Rifle_53
+    21300108: Rifle_54
+    21300110: Rifle_55
+    21300112: Rifle_56
+    21300114: Rifle_57
+    21300116: Rifle_58
+    21300118: Rifle_59
+    21300120: Rifle_60
+    21300122: Rifle_61
+    21300124: Rifle_62
+    21300126: Rifle_63
+    21300128: Rifle_64
+    21300130: Rifle_65
+    21300132: Rifle_66
+    21300134: Rifle_67
+    21300136: Rifle_68
+    21300138: Rifle_69
+    21300140: Rifle_70
+    21300142: Rifle_71
+    21300144: Rifle_72
+    21300146: Rifle_73
+    21300148: Rifle_74
+    21300150: Rifle_75
+    21300152: Rifle_76
+    21300154: Rifle_77
+    21300156: Rifle_78
+    21300158: Rifle_79
+    21300160: Rifle_80
+    21300162: Rifle_81
+    21300164: Rifle_82
+    21300166: Rifle_83
+    21300168: Rifle_84
+    21300170: Rifle_85
+    21300172: Rifle_86
+    21300174: Rifle_87
+    21300176: Rifle_88
+    21300178: Rifle_89
+    21300180: Rifle_90
+    21300182: Rifle_91
+    21300184: Rifle_92
+    21300186: Rifle_93
+    21300188: Rifle_94
+    21300190: Rifle_95
+    21300192: Rifle_96
+    21300194: Rifle_97
+    21300196: Rifle_98
+    21300198: Rifle_99
+    21300200: Rifle_100
+    21300202: Rifle_101
+    21300204: Rifle_102
+    21300206: Rifle_103
+    21300208: Rifle_104
+    21300210: Rifle_105
+    21300212: Rifle_106
+    21300214: Rifle_107
+    21300216: Rifle_108
+    21300218: Rifle_109
+    21300220: Rifle_110
+    21300222: Rifle_111
+    21300224: Rifle_112
+    21300226: Rifle_113
+    21300228: Rifle_114
+    21300230: Rifle_115
+    21300232: Rifle_116
+    21300234: Rifle_117
+    21300236: Rifle_118
+    21300238: Rifle_119
+    21300240: Rifle_120
+    21300242: Rifle_121
+    21300244: Rifle_122
+    21300246: Rifle_123
+    21300248: Rifle_124
+    21300250: Rifle_125
+    21300252: Rifle_126
+    21300254: Rifle_127
+    21300256: Rifle_128
+    21300258: Rifle_129
+    21300260: Rifle_130
+    21300262: Rifle_131
+    21300264: Rifle_132
+    21300266: Rifle_133
+    21300268: Rifle_134
+    21300270: Rifle_135
+    21300272: Rifle_136
+    21300274: Rifle_137
+    21300276: Rifle_138
+    21300278: Rifle_139
+    21300280: Rifle_140
+    21300282: Rifle_141
+    21300284: Rifle_142
+    21300286: Rifle_143
+    21300288: Rifle_144
+    21300290: Rifle_145
+    21300292: Rifle_146
+    21300294: Rifle_147
+    21300296: Rifle_148
+    21300298: Rifle_149
+    21300300: Rifle_150
+    21300302: Rifle_151
+    21300304: Rifle_152
+    21300306: Rifle_153
+    21300308: Rifle_154
+    21300310: Rifle_155
+    21300312: Rifle_156
+    21300314: Rifle_157
+    21300316: Rifle_158
+    21300318: Rifle_159
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rifle_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1190
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1190
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1190
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1190
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1149
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1150
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1152
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1155
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1150
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1149
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1149
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1150
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1151
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1153
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1149
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1149
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1108
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1108
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1057
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1057
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1057
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1068
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1065
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1057
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1021
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1021
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1021
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1021
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1021
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1021
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1021
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 974
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 974
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 974
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 974
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 974
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_36
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 974
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 974
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 974
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 974
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 974
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 974
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_42
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 974
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 944
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 894
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 894
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 894
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 894
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 894
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 894
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 894
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 894
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 894
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_53
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 894
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 844
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_58
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 843
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 843
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 843
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 843
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 843
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 843
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 843
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_65
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 843
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_66
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 843
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 792
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 792
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 792
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 792
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 792
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 792
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 792
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_74
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 792
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_75
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 792
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_76
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 792
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_77
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 751
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_78
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 751
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 751
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 713
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 713
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_82
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 713
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 713
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 713
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 713
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 713
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_87
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 713
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 704
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 713
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 713
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 705
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_92
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 673
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 673
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_94
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 673
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_95
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 673
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_96
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 673
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_97
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 673
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 673
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_99
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 622
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_100
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 622
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_101
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 622
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 622
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 622
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_104
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 622
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_105
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 622
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 622
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_107
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 622
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_108
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 622
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_109
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 622
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 613
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_111
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 614
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 613
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 581
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 581
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 581
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_116
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 581
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_117
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 581
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 581
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_119
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 581
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_120
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 581
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_121
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 581
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_122
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 581
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_123
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 581
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 581
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_125
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 581
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_126
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 533
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_127
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 533
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_128
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 533
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 533
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_130
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 533
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_131
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 533
+        width: 85
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_132
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 533
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_133
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 484
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 484
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_135
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 484
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_136
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 484
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 485
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_138
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 485
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 485
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_140
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 485
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_141
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 449
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_142
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 449
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_143
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 449
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_144
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 449
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_145
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 449
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_146
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 449
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_147
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 449
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_148
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 449
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_149
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 449
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_150
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 449
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_151
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 449
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_152
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 154
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_153
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 152
+        width: 67
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_154
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_155
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 152
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_156
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 154
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_157
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 152
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_158
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 141
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rifle_159
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
